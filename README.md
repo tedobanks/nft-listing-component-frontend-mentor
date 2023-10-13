@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-nft-listing-component-B_4ioVaHVG)
+- Live Site URL: [Live site URL](https://tedobanks.github.io/nft-listing-component-frontend-mentor/)
 
 ## My process
 
